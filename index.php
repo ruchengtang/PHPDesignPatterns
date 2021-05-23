@@ -6,10 +6,13 @@
 </head>
 <body>
     <h3>PHP Design Patterns Sample</h3>
-    <ul>
-        <li><a target="_blank" href="Behavioral/Observer/index.php">Observer</a></li>
-        <li><a target="_blank" href="Behavioral/Observer/SplObserver/index.php">SPL Observer</a></li>
-        <li><a target="_blank" href="Behavioral/Strategy/index.php">Strategy</a></li>
-    </ul>
+    <dl>
+        <dt>Behavioral</dt>
+        <dd><a target="_blank" href="Behavioral/Observer/index.php">Observer</a></dd>
+        <dd><a target="_blank" href="Behavioral/Observer/SplObserver/index.php">SPL Observer</a></dd>
+        <dd><a target="_blank" href="Behavioral/Strategy/index.php">Strategy</a></dd>
+        <dt>Structural</dt>
+        <dd><a target="_blank" href="Structural/Decorator/index.php">Decorator</a></dd>
+    </dl>
 </body>
 </html>
