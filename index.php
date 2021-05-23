@@ -9,6 +9,7 @@
     <ul>
         <li><a target="_blank" href="Behavioral/Observer/index.php">Observer</a></li>
         <li><a target="_blank" href="Behavioral/Observer/SplObserver/index.php">SPL Observer</a></li>
+        <li><a target="_blank" href="Behavioral/Strategy/index.php">Strategy</a></li>
     </ul>
 </body>
 </html>
