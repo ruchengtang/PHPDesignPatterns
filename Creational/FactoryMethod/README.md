@@ -2,4 +2,4 @@
 
 ## UML Diagram
 
-![decorator uml diagram](uml/uml.png)
+![factory method uml diagram](uml/uml.png)
