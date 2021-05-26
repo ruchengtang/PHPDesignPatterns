@@ -6,6 +6,6 @@ class FileLogger implements Logger
 {
     public function writeLog(string $message)
     {
-        echo 'File logging: ' . $message;
+        echo 'File logging: ' . $message . '<br/>';
     }
 }

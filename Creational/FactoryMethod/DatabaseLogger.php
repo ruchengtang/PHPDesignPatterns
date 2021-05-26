@@ -6,6 +6,6 @@ class DatabaseLogger implements Logger
 {
     public function writeLog(string $message)
     {
-        echo 'Database logging: ' . $message;
+        echo 'Database logging: ' . $message . '<br/>';
     }
 }
