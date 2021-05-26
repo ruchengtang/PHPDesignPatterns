@@ -14,6 +14,7 @@
         <dt>Structural</dt>
         <dd><a target="_blank" href="Structural/Decorator/index.php">Decorator</a></dd>
         <dt>Creational</dt>
+        <dd><a target="_blank" href="Creational/SimpleFactory/index.php">Simple Factory</a></dd>
         <dd><a target="_blank" href="Creational/FactoryMethod/index.php">Factory Method</a></dd>
     </dl>
 </body>
