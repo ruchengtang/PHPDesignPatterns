@@ -11,6 +11,7 @@
     <dd><a target="_blank" href="Behavioral/Observer/index.php">Observer</a></dd>
     <dd><a target="_blank" href="Behavioral/Observer/SplObserver/index.php">SPL Observer</a></dd>
     <dd><a target="_blank" href="Behavioral/Strategy/index.php">Strategy</a></dd>
+    <dd><a target="_blank" href="Behavioral/Command/index.php">Command</a></dd>
     <dt>Structural</dt>
     <dd><a target="_blank" href="Structural/Decorator/index.php">Decorator</a></dd>
     <dt>Creational</dt>
