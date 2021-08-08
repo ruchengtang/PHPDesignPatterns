@@ -1,2 +1,3 @@
 # PHPDesignPatterns
-PHP 设计模式
+
+This is a php design patterns sample code.

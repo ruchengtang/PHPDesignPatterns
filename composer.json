@@ -1,0 +1,19 @@
+{
+    "name": "ruchengtang/php-design-patterns",
+    "description": "This is a php design patterns sample code",
+    "require": {
+        "php": ">=7.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ruchengtang",
+            "email": "ruchengtang@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ruchengtang\\PHPDesignPatterns\\": ""
+        }
+    }
+}
