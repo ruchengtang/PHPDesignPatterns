@@ -14,6 +14,9 @@
     <dd><a target="_blank" href="Behavioral/Command/index.php">Command</a></dd>
     <dt>Structural</dt>
     <dd><a target="_blank" href="Structural/Decorator/index.php">Decorator</a></dd>
+    <dd><a target="_blank" href="Structural/ObjectAdapter/index.php">ObjectAdapter</a></dd>
+    <dd><a target="_blank" href="Structural/ClassAdapter/index.php">ClassAdapter</a></dd>
+    <dd><a target="_blank" href="Structural/Facade/index.php">Facade</a></dd>
     <dt>Creational</dt>
     <dd><a target="_blank" href="Creational/SimpleFactory/index.php">Simple Factory</a></dd>
     <dd><a target="_blank" href="Creational/FactoryMethod/index.php">Factory Method</a></dd>
