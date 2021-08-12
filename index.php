@@ -12,6 +12,7 @@
     <dd><a target="_blank" href="Behavioral/Observer/SplObserver/index.php">SPL Observer</a></dd>
     <dd><a target="_blank" href="Behavioral/Strategy/index.php">Strategy</a></dd>
     <dd><a target="_blank" href="Behavioral/Command/index.php">Command</a></dd>
+    <dd><a target="_blank" href="Behavioral/TemplateMethod/index.php">Template Method</a></dd>
     <dt>Structural</dt>
     <dd><a target="_blank" href="Structural/Decorator/index.php">Decorator</a></dd>
     <dd><a target="_blank" href="Structural/ObjectAdapter/index.php">ObjectAdapter</a></dd>
